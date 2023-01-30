@@ -227,3 +227,24 @@ header.sticky{
     font-size: 14px;
     font-weight: 600;
 }
+
+.client-reviews{
+    background-color: #f3f4f6;
+}
+.reviews{
+    text-align: center;
+}
+.reviews h3{
+    color: #111;
+    font-size: 25px;
+    text-transform: capitalize;
+    text-align: center;
+    font-weight: 700;
+}
+
+.reviews img{
+    width: 200px;
+    height: auto;
+    border-radius: 50px;
+    margin: 10px 0;
+}
