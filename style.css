@@ -83,3 +83,19 @@ section{
     grid-template-columns: repeat(1, 1fr);
     align-items: center;
 }
+
+.main-text h5{
+    color: #ee1c47;
+    font-size: 16px;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+
+.main-text h1{
+    color: #000;
+    font-size: 65px;
+    text-transform: capitalize;
+    line-height: 1.1;
+    font-weight: 600;
+    margin: 6px 0 10px;
+}
