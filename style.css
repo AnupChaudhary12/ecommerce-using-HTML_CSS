@@ -61,3 +61,10 @@ header{
     transform: scale(1.1);
     color: #ee1c47;
 }
+
+#menu-icon{
+    font-size: 35px;
+    color: #2c2c2c;
+    z-index: 10001;
+    cursor: pointer;
+}
