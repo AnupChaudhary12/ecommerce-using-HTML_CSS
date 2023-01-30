@@ -42,3 +42,22 @@ header{
 .navmenu a:hover{
     color: #ee1c47;
 }
+
+.nav-icon{
+    display: flex;
+    align-items: center;
+}
+
+.nav-icon i{
+    margin-right: 20px;
+    color: #2c2c2c;
+    font-size: 25px;
+    font-weight: 400;
+    transition: all .42s ease;
+
+}
+
+.nav-icon i:hover{
+    transform: scale(1.1);
+    color: #ee1c47;
+}
