@@ -106,3 +106,19 @@ section{
     font-style: italic;
     margin-bottom: 20px;
 }
+
+.main-btn{
+    display:inline-block ;
+    color: #111;
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: capitalize;
+    border: 2px solid #111;
+    padding: 12px 25px;
+    transition: all .42s ease;
+}
+
+.main-btn:hover{
+    background-color: #000;
+    color:#fff ;
+}
