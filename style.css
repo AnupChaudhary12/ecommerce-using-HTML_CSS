@@ -165,3 +165,21 @@ header.sticky{
 .center-text span{
     color: #ee1c47;
 }
+
+.products{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px,auto));
+    gap: 2rem;
+}
+
+.row{
+    position: relative;
+    transition: all .40s;
+
+}
+
+.row img{
+    width:100px;
+    height: auto;
+    transition: all .40s;
+}
