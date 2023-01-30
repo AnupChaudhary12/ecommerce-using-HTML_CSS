@@ -325,7 +325,7 @@ reviews h2{
     gap:1rem;
 }
 
-.first-info mg{
+.contact-info img{
     width: 140px;
     height: auto;
 }
@@ -336,3 +336,23 @@ reviews h2{
    margin-bottom: 10px; 
 }
 
+.contact-info p{
+    color: #565656;
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: capitalize;
+    line-height: 1.5;
+    margin-bottom: 10px;
+    cursor: pointer;
+    transition: all .42s;
+}
+.contact-info p:hover{
+    color: #ee1c47;
+}
+
+.social-icon i{
+    color: #565656;
+    margin-right: 10px;
+    font-size: 20px;
+    transition: all .42s;
+}
