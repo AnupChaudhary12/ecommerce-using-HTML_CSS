@@ -39,6 +39,6 @@ header{
     transition: all .42s ease;
 }
 
-.navmenu a :hover{
+.navmenu a:hover{
     color: #ee1c47;
 }
